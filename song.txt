@@ -1,4 +1,0 @@
-Hello, world!
-
-Hi, 28.08.2020!
-Hello, gitgui!
